@@ -10,4 +10,4 @@ O objetivo deste desafio é extrair algumas informações quantitativas que nos 
 Para isso, utilizaremos o data set Black Friday disponibilizado originalmente pela [Analytics Vidhya](https://www.analyticsvidhya.com/) e acessível publicamente através do [Kaggle](https://www.kaggle.com/). O data set traz algumas variáveis relativas à transações comerciais realizadas durante a Black Friday em uma determinada loja de varejo. Cada observação é relativa a um determinado item comprado por um usuário e um usuário pode ter comprado mais de um item.
 
 ### Requisitos
-Você precisará de Python 3 e pip. É altamente recomendado utilizar ambientes virtuais com o virtualenv e o arquivo requirements.txt para instalar os pacotes dependências do desafio:
+Biblioteca Pandas
