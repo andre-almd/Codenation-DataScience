@@ -1,10 +1,10 @@
 # Codenation-DataScience
 Códigos dos desafios desenvolvidos durante o programa de aceleração em Data Science da Codenation.
 
-### Site da codenation:
+### Site da Codenation:
 https://codenation.dev/
 
-#### Metodologia codenation:
+#### Metodologia Codenation:
 
 - Aprendizado com base em desafios e projetos práticos;
 - Encontros semanais com tutores de mercado e mentorias one on one;
