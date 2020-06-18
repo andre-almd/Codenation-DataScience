@@ -1,4 +1,4 @@
-# Semana 02
+# Módulo 02
 ## Pré-processamento de dados em Python
 
 Neste desafio vamos praticar a manipulação de dados utilizando a biblioteca pandas. Manipulação de dados é uma das tarefas mais fundamentais para um cientista de dados e o pandas - biblioteca mais popular do Python no assunto - ajuda a tornar essa tarefa mais agradável.
