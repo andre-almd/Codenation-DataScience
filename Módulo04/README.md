@@ -38,18 +38,3 @@ $ virtualenv venv -p python3
 $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
-
-Windows
-
-```bash
-> pip3 install virtualenv
-> virtualenv ..\venv -p python3
-> ..\venv\Scripts\activate
-> pip install -r requirements.txt
-```
-
-Quando finalizado, você pode desativar o ambiente virtual do virtualenv com:
-
-```bash
-$ deactivate
-```
